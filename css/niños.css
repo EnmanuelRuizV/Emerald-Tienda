@@ -1,0 +1,292 @@
+body {
+    background: #fff;
+    margin: 0%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.prom-sup {
+    width: 98.7%;
+    text-align: center;
+    padding: .5em;
+    background: #000;
+    color: #fff;
+}
+
+.log {
+    width: 100%;
+    text-align: center;
+    background: #9fe0d5;
+}
+
+.logo {
+    height: 3.5em;
+    padding: .5em;
+}
+
+/* MENÚ */
+
+.all-menu {
+    display: flex;
+    width: 100%;
+    text-align: center;
+}
+
+.menu-buttons {
+    background: #dfdfe0;
+    display: flex;
+    width: 50%;
+    padding: 0 25%;
+    text-align: center;
+}
+
+.menu-buttons a {
+    width: 80%;
+    color: #000;
+    text-decoration: none;
+}
+
+.menu-buttons a li {
+    background: #dfdfe0;
+    list-style: none;
+    padding: 1em .5em;
+    transition: .5s;
+}
+
+.menu-buttons a li:hover {
+    background: #fff;
+    transition: .5s;
+}
+
+/* BANNER */
+
+.banner {
+    width: 100%;
+}
+
+/* TARJETAS ANIMADAS */
+
+.all-tar {
+    padding: 2em 5em;
+}
+
+.tarjetas {
+    text-align: center;
+    display: flex;
+}
+
+.tar {
+    margin-bottom: 3em;
+}
+
+.tar a {
+    color: rgb(49, 49, 49);
+    font-weight: 500;
+    text-decoration: none;
+    transition: .2s;
+}
+
+.tar a:hover {
+    color: rgb(102, 172, 147);
+    font-weight: 500;
+}
+
+.tarjetas div div {
+    margin: .5em;
+    width: 21.5em;
+    height: 26.5em;
+    background-size: 21.5em;
+}
+
+aside {
+    margin: .5em .5em .5em 1.5em;
+    width: 48em;
+    height: 26.5em;
+    background-size: 48em;
+}
+
+.t1 {
+    background-image: url(/img/ig1.png);
+    background-repeat: no-repeat;
+    
+}
+
+.t1:hover {
+    background-image: url(/img/ig1a_281x375_253x338.png);
+}
+
+.t2 {
+    background-image: url(/img/ig2_281x375_253x338.png);
+    background-repeat: no-repeat;
+    
+}
+
+.t2:hover {
+    background-image: url(/img/ig2a_281x375_253x338.png);
+}
+
+.t3 {
+    background-image: url(/img/ig3_281x375_253x338.png);
+    background-repeat: no-repeat;
+    
+}
+
+.t3:hover {
+    background-image: url(/img/ig3a_281x375_253x338.png);
+}
+
+.t4 {
+    background-image: url(/img/ig4_281x375_253x338.png);
+    background-repeat: no-repeat;
+    
+}
+
+.t4:hover {
+    background-image: url(/img/ig4a_281x375_253x338.png);
+}
+
+.t5 {
+    background-image: url(/img/ig5_281x375_253x338.png);
+    background-repeat: no-repeat;
+    
+}
+
+.t5:hover {
+    background-image: url(/img/ig5a_281x375_253x338.png);
+}
+
+.t6 {
+    background-image: url(/img/ig6_281x375_253x338.png);
+    background-repeat: no-repeat;
+    
+}
+
+.t6:hover {
+    background-image: url(/img/ig6a_281x375_253x338.png);
+}
+.banner1{
+    width: 100%;
+}
+.t7 {
+    background-image: url(/img/ig7_281x375_253x338.png);
+    background-repeat: no-repeat;
+    
+}
+
+.t7:hover {
+    background-image: url(/img/ig7a_281x375_253x338.png);
+}
+
+.t8 {
+    background-image: url(/img/ig8_281x375_253x338.png);
+    background-repeat: no-repeat;
+    
+}
+
+.t8:hover {
+    background-image: url(/img/ig8a_281x375_253x338.png);
+}
+
+.t9 {
+    background-image: url(/img/ig9_281x375_253x338.png);
+    background-repeat: no-repeat;
+    
+}
+
+.t9:hover {
+    background-image: url(/img/ig9a_281x375_253x338.png);
+}
+
+.t10 {
+    background-image: url(/img/ig10_281x375_253x338.png);
+    background-repeat: no-repeat;
+    
+}
+
+.t10:hover {
+    background-image: url(/img/ig10a_281x375_253x338.png);
+}
+
+.t11 {
+    background-image: url(/img/ig11_281x375_253x338.png);
+    background-repeat: no-repeat;
+   
+}
+
+.t11:hover {
+    background-image: url(/img/ig11a_281x375_253x338.png);
+}
+.t12 {
+    background-image: url(/img/ig12_281x375_253x338.png);
+    background-repeat: no-repeat;
+}
+.t12:hover {
+    background-image: url(/img/ig12a_281x375_253x338.png);
+}
+footer {
+    background: #000;
+    color: #fff;
+    width: 100%;
+    height: auto;
+}
+
+.footer-content {
+    bottom: 0;
+    position:relative;
+    text-align: left;
+    width: 100%;
+}
+
+.all-footer {
+    display: flex;
+    width: 100%;
+}
+
+.sec {
+    margin: 2em 2em 1em 2em;
+    text-align: left;
+    display: block;
+    width: 100%;
+}
+
+.logo-end {
+    text-align: center;
+    height: 5em;
+    margin: .5em;
+}
+
+span {
+    font-size: .9em;
+}
+
+span a {
+    color: #fff;
+    text-decoration: none;
+}
+
+span a:hover {
+    text-decoration-line: underline;
+}
+
+.icons {
+    display: flex;
+}
+
+.ico {
+    text-align: center;
+    margin-right: .8em;
+    height: 3.5em;
+    font-size: .8em;
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.end {
+    width: 100%;
+    margin: 0%;
+    text-align: center;
+    padding: .1em 0 1em 0;
+    height: 2em;
+    background: #dfdfe0;
+    color: #000;
+}
